@@ -48,7 +48,7 @@ plt.tight_layout()
 plt.show()
 ```
 ## Output Waveform:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ebd04736-7291-48dd-a352-b9f7cc37c461" />
+<img width="1189" height="990" alt="dc3-1" src="https://github.com/user-attachments/assets/67cd8b38-6cd2-43a7-9b75-4aaccfe5693f" />
 
 ## Delta Modulation(DM):
 ```
