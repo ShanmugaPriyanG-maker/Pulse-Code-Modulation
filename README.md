@@ -101,7 +101,7 @@ plt.show()
 
 ```
 ## output:
-<img width="500" height="590" alt="image" src="https://github.com/user-attachments/assets/d68fc8b4-1350-4986-969b-01b7e32f0ef5" />
+<img width="1203" height="590" alt="dc3-2" src="https://github.com/user-attachments/assets/8a890bd3-74c6-49a9-ac70-947326b7048e" />
 
 
 ## Results:
